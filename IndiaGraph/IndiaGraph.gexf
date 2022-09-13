@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-09-13">
+    <creator>Gephi 0.9.3</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="date" timerepresentation="timestamp" timezone="UTC" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"/>
+      <attribute id="indegree" title="indegree" type="integer"/>
+      <attribute id="outdegree" title="outdegree" type="integer"/>
+      <attribute id="degree" title="degree" type="integer"/>
+      <attribute id="weighted indegree" title="weighted indegree" type="integer"/>
+      <attribute id="weighted outdegree" title="weighted outdegree" type="integer"/>
+      <attribute id="weighted degree" title="weighted degree" type="integer"/>
+      <attribute id="eccentricity" title="eccentricity" type="integer"/>
+      <attribute id="closnesscentrality" title="closnesscentrality" type="double"/>
+      <attribute id="harmonicclosnesscentrality" title="harmonicclosnesscentrality" type="double"/>
+      <attribute id="betweenesscentrality" title="betweenesscentrality" type="integer"/>
+      <attribute id="authority" title="authority" type="double"/>
+      <attribute id="hub" title="hub" type="double"/>
+      <attribute id="pageranks" title="pageranks" type="double"/>
+      <attribute id="componentnumber" title="componentnumber" type="integer"/>
+      <attribute id="strongcompnum" title="strongcompnum" type="integer"/>
+      <attribute id="modularity_class" title="modularity_class" type="integer"/>
+      <attribute id="stat_inf_class" title="stat_inf_class" type="integer"/>
+      <attribute id="clustering" title="clustering" type="double"/>
+      <attribute id="eigencentrality" title="eigencentrality" type="double"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="relid" title="relid" type="string"/>
+      <attribute id="year" title="year" type="integer"/>
+      <attribute id="active_year" title="active_year" type="integer"/>
+      <attribute id="code_status" title="code_status" type="string"/>
+      <attribute id="type_of_violence" title="type_of_violence" type="integer"/>
+      <attribute id="conflict_dset_id" title="conflict_dset_id" type="integer"/>
+      <attribute id="conflict_new_id" title="conflict_new_id" type="integer"/>
+      <attribute id="conflict_name" title="conflict_name" type="string"/>
+      <attribute id="dyad_dset_id" title="dyad_dset_id" type="integer"/>
+      <attribute id="dyad_new_id" title="dyad_new_id" type="integer"/>
+      <attribute id="dyad_name" title="dyad_name" type="string"/>
+      <attribute id="side_a_dset_id" title="side_a_dset_id" type="integer"/>
+      <attribute id="side_a" title="side_a" type="string"/>
+      <attribute id="side_b_dset_id" title="side_b_dset_id" type="integer"/>
+      <attribute id="side_b" title="side_b" type="string"/>
+      <attribute id="number_of_sources" title="number_of_sources" type="integer"/>
+      <attribute id="source_article" title="source_article" type="string"/>
+      <attribute id="source_office" title="source_office" type="string"/>
+      <attribute id="source_date" title="source_date" type="string"/>
+      <attribute id="source_headline" title="source_headline" type="string"/>
+      <attribute id="source_original" title="source_original" type="string"/>
+      <attribute id="where_prec" title="where_prec" type="integer"/>
+      <attribute id="where_coordinates" title="where_coordinates" type="string"/>
+      <attribute id="where_description" title="where_description" type="string"/>
+      <attribute id="adm_1" title="adm_1" type="string"/>
+      <attribute id="adm_2" title="adm_2" type="string"/>
+      <attribute id="latitude" title="latitude" type="double"/>
+      <attribute id="longitude" title="longitude" type="double"/>
+      <attribute id="geom_wkt" title="geom_wkt" type="string"/>
+      <attribute id="priogrid_gid" title="priogrid_gid" type="integer"/>
+      <attribute id="country" title="country" type="string"/>
+      <attribute id="country_id" title="country_id" type="integer"/>
+      <attribute id="region" title="region" type="string"/>
+      <attribute id="event_clarity" title="event_clarity" type="integer"/>
+      <attribute id="date_prec" title="date_prec" type="integer"/>
+      <attribute id="deaths_a" title="deaths_a" type="integer"/>
+      <attribute id="deaths_b" title="deaths_b" type="integer"/>
+      <attribute id="deaths_civilians" title="deaths_civilians" type="integer"/>
+      <attribute id="deaths_unknown" title="deaths_unknown" type="integer"/>
+      <attribute id="best" title="best" type="integer"/>
+      <attribute id="high" title="high" type="integer"/>
+      <attribute id="low" title="low" type="integer"/>
