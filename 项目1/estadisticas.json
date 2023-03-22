@@ -1,0 +1,62 @@
+{
+  "date": "Wed Mar 22 15:13:37 CST 2023",
+  "author": "jorgaf",
+  "description": "File created by Loxa Web site exporter. http://www.j4loxa.com/sna/gephi/plugins/index.html",
+  "graphs": [
+    {
+      "name": "工作区3",
+      "title": "Title to 工作区3",
+      "tip": "",
+      "nodes": "2381",
+      "edges": "3892",
+      "description": "",
+      "imgColorDescription": "",
+      "graphfile": "工作区3/工作区3.csv",
+      "pdffile": "工作区3/工作区3.pdf",
+      "browsegraph": "工作区3/工作区3.gexf",
+      "type": "Undirected",
+      "metrics": [
+        {
+          "name": "Metric 1",
+          "value": "0,00",
+          "description": "Description for metric 1"
+        },
+        {
+          "name": "Metric 2",
+          "value": "0,00",
+          "description": "Description for metric 2"
+        },
+        {
+          "name": "Metric 3",
+          "value": "0,00",
+          "description": "Description for metric 3"
+        },
+        {
+          "name": "Metric 4",
+          "value": "0,00",
+          "description": "Description for metric 4"
+        },
+        {
+          "name": "Metric 5",
+          "value": "0,00",
+          "description": "Description for metric 5"
+        },
+        {
+          "name": "Metric 6",
+          "value": "0,00",
+          "description": "Description for metric 6"
+        },
+        {
+          "name": "Metric 7",
+          "value": "0,00",
+          "description": "Description for metric 7"
+        },
+        {
+          "name": "Metric 8",
+          "value": "0,00",
+          "description": "Description for metric 8"
+        }
+      ]
+    }
+  ]
+}
